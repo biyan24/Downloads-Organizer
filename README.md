@@ -1,6 +1,33 @@
-# Simple File Organizer
-This script will organize your **Downloads** folder by the file type
 
-**Example:**
-".mp4" and ".mov" will be moved to the "Videos" folder (if there isnt a folder named Videos it will make one)
+#  Downloads Organizer
 
+A simple Python script that automatically organizes files in your Downloads folder by file type.
+
+##  Features
+
+- Automatically sorts files into folders:
+  - Documents
+  - Images
+  - Videos
+  - Music
+  - Archives
+  - Executables
+- Leaves unmatched files untouched
+- Lightweight and easy to customize
+
+##  Requirements
+
+- Python 3.8+
+
+## Usage
+
+Clone the repository:
+
+```bash
+git clone git@github.com:biyan24/downloads-organizer.git
+cd downloads-organizer
+```
+Run the script
+```bash
+python3 organizer.py
+```
