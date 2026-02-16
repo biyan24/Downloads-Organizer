@@ -14,6 +14,7 @@ A simple Python script that automatically organizes files in your **linux** Down
   - Executables
 - Leaves unmatched files untouched
 - Lightweight and easy to customize
+- You can add file types in the code if there isnt one
 
 ##  Requirements
 

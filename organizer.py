@@ -5,7 +5,7 @@ download_path = os.path.expanduser("~/Downloads")
 
 folders = {
     "Documents": ["doc", "docx", "pdf", "txt"],
-    "Images": ["jpg", "jpeg", "png", "gif"],
+    "Images": ["jpg", "jpeg", "png", "gif", "svg"],
     "Videos": ["mp4", "avi", "mkv", "mov"],
     "Music": ["mp3", "wav", "flac", "aac"],
     "Archives": ["zip", "rar", "tar", "gz", "xz"],
