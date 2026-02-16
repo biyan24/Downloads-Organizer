@@ -1,7 +1,7 @@
 
 #  Downloads Organizer
 
-A simple Python script that automatically organizes files in your Downloads folder by file type.
+A simple Python script that automatically organizes files in your **linux** Downloads folder by file type.
 
 ##  Features
 
@@ -24,8 +24,8 @@ A simple Python script that automatically organizes files in your Downloads fold
 Clone the repository:
 
 ```bash
-git clone git@github.com:biyan24/downloads-organizer.git
-cd downloads-organizer
+git clone git@github.com:biyan24/Downloads-Organizer.git
+cd /where-you-download-the-file/
 ```
 Run the script
 ```bash
